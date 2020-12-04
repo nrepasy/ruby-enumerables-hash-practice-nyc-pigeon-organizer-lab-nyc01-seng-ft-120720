@@ -17,7 +17,7 @@ def nyc_pigeon_organizer(data)
     "City Hall" => ["Andrew"]
   }
 }
-pigeon_data
+pigeon_data.map |x , y , z}
 
 
 end
