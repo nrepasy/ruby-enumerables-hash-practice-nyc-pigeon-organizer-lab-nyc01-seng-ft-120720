@@ -17,6 +17,5 @@ def nyc_pigeon_organizer(data)
     "City Hall" => ["Andrew"]
   }
 }
- pigeon_data["Alex"]
-
+ puts pigeon_data
 end
