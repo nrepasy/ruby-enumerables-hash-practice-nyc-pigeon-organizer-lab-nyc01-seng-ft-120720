@@ -17,6 +17,6 @@ def nyc_pigeon_organizer(data)
     "City Hall" => ["Andrew"]
   }
 }
- puts pigeon_data{:color}
+ 
 
 end
